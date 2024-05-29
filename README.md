@@ -2,7 +2,7 @@
 
 # Introduction
 
-STOCK Prophet is a stock recommendation system developed as a group project for the DATA-230 Data Visualization course under the guidance of Dr. Guannan Liu. The primary objective is to develop a machine learning model that predicts future stock prices based on historical data, technical indicators, and market information.
+STOCK Prophet is a stock recommendation system The primary objective is to develop a machine learning model that predicts future stock prices based on historical data, technical indicators, and market information.
 
 ## Features
 
